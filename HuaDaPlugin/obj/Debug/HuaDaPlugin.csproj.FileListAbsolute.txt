@@ -1,0 +1,17 @@
+F:\C#Practice\Checker\HuaDaPlugin\bin\Debug\HuaDaPlugin.dll
+F:\C#Practice\Checker\HuaDaPlugin\bin\Debug\HuaDaPlugin.pdb
+F:\C#Practice\Checker\HuaDaPlugin\bin\Debug\Common.dll
+F:\C#Practice\Checker\HuaDaPlugin\bin\Debug\NLog.dll
+F:\C#Practice\Checker\HuaDaPlugin\bin\Debug\Common.pdb
+F:\C#Practice\Checker\HuaDaPlugin\bin\Debug\NLog.xml
+F:\C#Practice\Checker\HuaDaPlugin\obj\Debug\HuaDaPlugin.dll
+F:\C#Practice\Checker\HuaDaPlugin\obj\Debug\HuaDaPlugin.pdb
+F:\C#Practice\SelfChecker\HuaDaPlugin\bin\Debug\HuaDaPlugin.dll
+F:\C#Practice\SelfChecker\HuaDaPlugin\bin\Debug\HuaDaPlugin.pdb
+F:\C#Practice\SelfChecker\HuaDaPlugin\bin\Debug\Common.dll
+F:\C#Practice\SelfChecker\HuaDaPlugin\bin\Debug\NLog.dll
+F:\C#Practice\SelfChecker\HuaDaPlugin\bin\Debug\Common.pdb
+F:\C#Practice\SelfChecker\HuaDaPlugin\bin\Debug\NLog.xml
+F:\C#Practice\SelfChecker\HuaDaPlugin\obj\Debug\HuaDaPlugin.csprojResolveAssemblyReference.cache
+F:\C#Practice\SelfChecker\HuaDaPlugin\obj\Debug\HuaDaPlugin.dll
+F:\C#Practice\SelfChecker\HuaDaPlugin\obj\Debug\HuaDaPlugin.pdb

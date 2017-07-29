@@ -1,0 +1,13 @@
+F:\C#Practice\MEF\Common\bin\Debug\Common.dll
+F:\C#Practice\MEF\Common\bin\Debug\Common.pdb
+F:\C#Practice\MEF\Common\obj\Debug\Common.dll
+F:\C#Practice\MEF\Common\obj\Debug\Common.pdb
+F:\C#Practice\MEF\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\C#Practice\MEF\Common\bin\Debug\NLog.dll
+F:\C#Practice\MEF\Common\bin\Debug\NLog.xml
+F:\C#Practice\Checker\Common\bin\Debug\Common.dll
+F:\C#Practice\Checker\Common\bin\Debug\Common.pdb
+F:\C#Practice\Checker\Common\bin\Debug\NLog.dll
+F:\C#Practice\Checker\Common\bin\Debug\NLog.xml
+F:\C#Practice\Checker\Common\obj\Debug\Common.dll
+F:\C#Practice\Checker\Common\obj\Debug\Common.pdb

@@ -1,0 +1,11 @@
+F:\C#Practice\SelfChecker\CameraPlugin\bin\Debug\CameraPlugin.dll
+F:\C#Practice\SelfChecker\CameraPlugin\bin\Debug\CameraPlugin.pdb
+F:\C#Practice\SelfChecker\CameraPlugin\bin\Debug\AForge.Video.DirectShow.dll
+F:\C#Practice\SelfChecker\CameraPlugin\bin\Debug\Common.dll
+F:\C#Practice\SelfChecker\CameraPlugin\bin\Debug\NLog.dll
+F:\C#Practice\SelfChecker\CameraPlugin\bin\Debug\Common.pdb
+F:\C#Practice\SelfChecker\CameraPlugin\bin\Debug\AForge.Video.DirectShow.xml
+F:\C#Practice\SelfChecker\CameraPlugin\bin\Debug\NLog.xml
+F:\C#Practice\SelfChecker\CameraPlugin\obj\Debug\CameraPlugin.csprojResolveAssemblyReference.cache
+F:\C#Practice\SelfChecker\CameraPlugin\obj\Debug\CameraPlugin.dll
+F:\C#Practice\SelfChecker\CameraPlugin\obj\Debug\CameraPlugin.pdb
